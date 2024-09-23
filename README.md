@@ -1,0 +1,1 @@
+# plugins-wincher-rank-tracker
